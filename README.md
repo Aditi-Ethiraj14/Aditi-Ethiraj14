@@ -13,7 +13,6 @@ I am Aditi Ethiraj, a first-year Computer Science Engineering (CSE) student, exp
 ![](https://github-readme-streak-stats.demolab.com/?user=Aditi-Ethiraj14&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Ethiraj14&theme=radical&hide_border=false&layout=compact)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aditi-Ethiraj14&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=1800)
 
