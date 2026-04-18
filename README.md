@@ -20,13 +20,11 @@ I am Aditi Ethiraj, a Computer Science Engineering (CSE) student, exploring the 
 
 ## ✨ Dev Activity
 
-<p align="center">
+<p align="center" style="margin-bottom: 4px;">
   <img src="https://komarev.com/ghpvc/?username=Aditi-Ethiraj14&color=blueviolet&style=flat-square" />
 </p>
 
-<br/>
-
-<p align="center">
+<p align="center" style="margin-top: 0;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-Ethiraj14&theme=react-dark&area=true&hide_border=true" />
 </p>
 
