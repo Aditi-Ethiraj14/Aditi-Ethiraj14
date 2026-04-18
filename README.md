@@ -9,7 +9,6 @@ I am Aditi Ethiraj, a Computer Science Engineering (CSE) student, exploring the 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Arduino](https://img.shields.io/badge/arduino-%2300999C.svg?style=for-the-badge&logo=arduino&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23FAF9F8.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 
 
-
 # 📊 GitHub Stats
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Aditi-Ethiraj14&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
@@ -17,22 +16,19 @@ I am Aditi Ethiraj, a Computer Science Engineering (CSE) student, exploring the 
 
 ---
 
-## 🚀 Tech Stack & Languages
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditi-Ethiraj14&layout=donut&theme=radical)
+## 💻 Top Languages
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditi-Ethiraj14&layout=compact&theme=radical&langs_count=6)
 
 ---
 
-## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Aditi-Ethiraj14&theme=react-dark&area=true&hide_border=true)
+## ✨ Dev Activity (Glass Style)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditi-Ethiraj14&theme=radical&utcOffset=5)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditi-Ethiraj14&theme=radical)
 
 ---
 
-## ⚡ Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditi-Ethiraj14&theme=radical)
-
----
-
-![](https://visitcount.itsvg.in/api?id=Aditi-Ethiraj14)
+![](https://visitcount.itsvg.in/api?id=Aditi-Ethiraj14&color=6&icon=5)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
