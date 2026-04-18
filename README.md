@@ -19,6 +19,7 @@ I am Aditi Ethiraj, a Computer Science Engineering (CSE) student, exploring the 
 
 
 ## ✨ Dev Activity
+![](https://komarev.com/ghpvc/?username=Aditi-Ethiraj14&color=blueviolet&style=flat-square)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Aditi-Ethiraj14&theme=react-dark&area=true&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=Aditi-Ethiraj14&label=Profile%20views&color=0e75b6&style=flat)
