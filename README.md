@@ -10,19 +10,29 @@ I am Aditi Ethiraj, a Computer Science Engineering (CSE) student, exploring the 
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Aditi-Ethiraj14&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=Aditi-Ethiraj14&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditi-Ethiraj14&theme=radical&hide_border=false&layout=compact)
+# 📊 GitHub Stats
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Aditi-Ethiraj14&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aditi-Ethiraj14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditi-Ethiraj14&theme=radical)
+![](https://streak-stats.demolab.com?user=Aditi-Ethiraj14&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aditi-Ethiraj14&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 Tech Stack & Languages
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditi-Ethiraj14&layout=donut&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=Aditi-Ethiraj14&theme=react-dark&area=true&hide_border=true)
+
+---
+
+## ⚡ Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditi-Ethiraj14&theme=radical)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=Aditi-Ethiraj14)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
