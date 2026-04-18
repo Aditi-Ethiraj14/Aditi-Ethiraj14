@@ -17,12 +17,11 @@ I am Aditi Ethiraj, a Computer Science Engineering (CSE) student, exploring the 
 ## 💻 Top Languages
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditi-Ethiraj14&theme=radical)
 
----
 
 ## ✨ Dev Activity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Aditi-Ethiraj14&theme=react-dark&area=true&hide_border=true)
 
-![](https://visitcount.itsvg.in/api?id=Aditi-Ethiraj14&color=6&icon=5)
+![](https://komarev.com/ghpvc/?username=Aditi-Ethiraj14&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
